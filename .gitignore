@@ -1,0 +1,8 @@
+# Ignore everything inside Workspace
+Workspace/*
+
+# But keep these project folders
+!Workspace/001/
+
+
+
