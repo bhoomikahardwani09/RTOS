@@ -4,6 +4,7 @@ Workspace/*
 # But keep these project folders
 !Workspace/001/
 !Workspace/002_LED_TASKS/
+!Workspace/003_LED_BLOCK_TASKS/
 
 
 
