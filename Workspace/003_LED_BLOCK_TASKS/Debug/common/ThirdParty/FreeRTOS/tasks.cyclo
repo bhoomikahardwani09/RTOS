@@ -11,7 +11,7 @@
 /home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:2643:17:uxTaskPriorityGetFromISR	2
 /home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:2691:17:uxTaskBasePriorityGet	2
 /home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:2717:17:uxTaskBasePriorityGetFromISR	2
-/home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:2765:10:vTaskPrioritySet	14
+/home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:2765:10:vTaskPrioritySet	15
 /home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:3121:10:vTaskSuspend	10
 /home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:3283:23:prvTaskIsTaskSuspended	7
 /home/bhoomika/Desktop/EMBEDDED_C/RTOS/Workspace/common/ThirdParty/FreeRTOS/tasks.c:3353:10:vTaskResume	7

@@ -4,5 +4,6 @@
 ../Core/Src/main.c:219:13:led1_handler	1
 ../Core/Src/main.c:229:13:led2_handler	1
 ../Core/Src/main.c:239:13:led3_handler	1
-../Core/Src/main.c:262:6:HAL_TIM_PeriodElapsedCallback	2
-../Core/Src/main.c:280:6:Error_Handler	1
+../Core/Src/main.c:251:6:vApplicationIdleHook	1
+../Core/Src/main.c:266:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:284:6:Error_Handler	1
